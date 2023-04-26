@@ -35,7 +35,7 @@ hr{
 }
 input{
     
-    width: 50%;
+    width: 56%;
     height: 20px;
     margin: 10px;
     padding: 17px;
@@ -47,7 +47,7 @@ input{
 .btn{
     padding: 10px;
     margin-bottom: 20px;
-    width: 20%;
+    width: 30%;
     border-radius: 10px;
     background: #D21312;
     box-shadow: 3px 3px 5px #FF6000;
@@ -56,7 +56,7 @@ input{
 .btn:hover{
     background: #6D5D6E;
     color: #FFF;
-    width: 30%;
+    width: 40%;
     transition: .6s ease-in-out;
     font-weight: bolder;
 }
